@@ -19,7 +19,7 @@ const data = [
         disabled: true,
         children: [
           {
-            disabled: true,
+            disabled: false,
             value: '1-1-1',
             label: 'Level three 1-1-1',
           },
